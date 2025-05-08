@@ -1,8 +1,4 @@
 # Sign-Up-Page
-Sign up Page 
-
-using 
-# HTML
-# CSS
-# img
+Sign up Page using 
+# HTML # CSS # Background img
 
